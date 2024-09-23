@@ -23,10 +23,10 @@
 
 <!-- start -->
 
- 1. [lx-msuic 辅助脚本.user.js](https://raw.githubusercontent.com/Dwjem/lx-music-source-map/master/dist/lx-msuic 辅助脚本.user.js)
+ 1. [lx-msuic油猴辅助脚本.user.js](https://raw.githubusercontent.com/Dwjem/lx-music-source-map/master/dist/lx-msuic油猴辅助脚本.user.js)
 
  ```
- https://raw.githubusercontent.com/Dwjem/lx-music-source-map/master/dist/lx-msuic 辅助脚本.user.js
+ https://raw.githubusercontent.com/Dwjem/lx-music-source-map/master/dist/lx-msuic油猴辅助脚本.user.js
  ```
 
 
