@@ -1,0 +1,18 @@
+# 写一个github的action，用于更新readme.md文件，然后再推送到仓库里。
+name: Update README
+on:
+  push:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: 设置 Node 环境
+        uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 14.x
+      - run: node update-readme.js
+      - name: 提交文件到仓库
+        run: |
+          git commit -m "Update README" -a
