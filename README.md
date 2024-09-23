@@ -8,5 +8,4 @@
 
 ```
 https://raw.githubusercontent.com/Dwjem/lx-music-source-map/master/lx-music-source.js
-https://github.com/Dwjem/lx-music-source-map/blob/master/lx-music-source.js
 ```
